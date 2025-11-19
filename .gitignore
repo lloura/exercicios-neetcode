@@ -1,0 +1,26 @@
+# executáveis gerados pelo compilador (Linux)
+containsDuplicate
+encodeDecodeStrings
+groupAnagrams
+productsOfArrayExceptSelf
+topKFrequentElements
+twoSum
+validAnagram
+validSudoku
+binarySearch
+ListasEncadeadas1
+ListasEncadeadas2
+myPow
+evaluateReversePolishNotation
+minimumStack
+validParentheses
+3Sum
+TwoIntegerSumII
+validPalindrome
+
+# executáveis gerados pelo compilador (Windows)
+*.exe
+
+# arquivos auxiliares gerados pela extensão CodeRunner; quando há erro de compilação ou execução esses arquivos não são apagado
+.vscode
+tempCodeRunnerFile
